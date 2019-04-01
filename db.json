@@ -1,0 +1,18 @@
+{
+    "profile": {
+        "username": "@dave_mustaine",
+        "name": "Dave",
+        "lastname":"Mustaine",
+        "image" : "https://i.iheart.com/v3/re/new_assets/5b4651b71fb14e1de57e5970",
+        "occupation": "Musician",
+        "age" : "57",
+        "email": "dave.mustaine@gmail.com",
+        "location": "New York, USA",
+        "social" : {
+            "posts": 420,
+            "likes": 587,
+            "shares":103,
+            "friends": 899
+        }
+    }
+}
