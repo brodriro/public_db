@@ -1,18 +1,106 @@
 {
     "profile": {
+        "id": 1,
         "username": "@dave_mustaine",
         "name": "Dave",
-        "lastname":"Mustaine",
-        "image" : "https://i.iheart.com/v3/re/new_assets/5b4651b71fb14e1de57e5970",
+        "lastname": "Mustaine",
+        "image": "https://i.iheart.com/v3/re/new_assets/5b4651b71fb14e1de57e5970",
         "occupation": "Musician",
-        "age" : "57",
+        "age": "57",
         "email": "dave.mustaine@gmail.com",
         "location": "New York, USA",
-        "social" : {
+        "social": {
             "posts": 420,
             "likes": 587,
-            "shares":103,
+            "shares": 103,
             "friends": 899
         }
-    }
+    },
+    "users": [
+        {
+            "id": 1,
+            "username": "@dave_mustaine",
+            "name": "Dave",
+            "lastname": "Mustaine",
+            "image": "https://i.iheart.com/v3/re/new_assets/5b4651b71fb14e1de57e5970",
+            "occupation": "Musician",
+            "age": "57",
+            "email": "dave.mustaine@gmail.com",
+            "location": "New York, USA",
+            "social": {
+                "posts": 420,
+                "likes": 587,
+                "shares": 103,
+                "friends": 899
+            }
+        },
+        {
+            "id": 2,
+            "username": "@david2k",
+            "name": "David",
+            "lastname": "Rovs",
+            "image": "https://i.iheart.com/v3/re/new_assets/5b4651b71fb14e1de57e5970",
+            "occupation": "Artist",
+            "age": "42",
+            "email": "wdavid.2k@gmail.com",
+            "location": "Home, CA",
+            "social": {
+                "posts": 250,
+                "likes": 1550,
+                "shares": 326,
+                "friends": 650
+            }
+        },
+        {
+            "id": 3,
+            "username": "@helena_dust",
+            "name": "Helena",
+            "lastname": "Smith",
+            "image": "https://i.iheart.com/v3/re/new_assets/5b4651b71fb14e1de57e5970",
+            "occupation": "Designer",
+            "age": "38",
+            "email": "hele.smith@gmail.com",
+            "location": "Home, CA",
+            "social": {
+                "posts": 749,
+                "likes": 1860,
+                "shares": 402,
+                "friends": 712
+            }
+        },
+        {
+            "id": 4,
+            "username": "@sophia_ds",
+            "name": "Sophia",
+            "lastname": "Kent",
+            "image": "https://i.iheart.com/v3/re/new_assets/5b4651b71fb14e1de57e5970",
+            "occupation": "Producer",
+            "age": "39",
+            "email": "soph.kt@gmail.com",
+            "location": "Home, CA",
+            "social": {
+                "posts": 800,
+                "likes": 1260,
+                "shares": 399,
+                "friends": 689
+            }
+        },
+        {
+            "id": 5,
+            "username": "@anderson.nt",
+            "name": "Anderson",
+            "lastname": "Luthor",
+            "image": "https://i.iheart.com/v3/re/new_assets/5b4651b71fb14e1de57e5970",
+            "occupation": "Actor",
+            "age": "40",
+            "email": "nt.anderson@gmail.com",
+            "location": "Home, CA",
+            "social": {
+                "posts": 537,
+                "likes": 999,
+                "shares": 360,
+                "friends": 570
+            }
+        }
+    ]
 }
