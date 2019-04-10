@@ -103,28 +103,30 @@
             }
         }
     ],
-    "posts": {
-        "id": 1,
-        "user_id": 1,
-        "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
-        "image": "https://images.pexels.com/photos/2076966/pexels-photo-2076966.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "likes": 4,
-        "comment": [
-            {
-                "user_id": 2,
-                "user_image": "https://images.pexels.com/photos/1091725/pexels-photo-1091725.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-                "comment": "Amazing! ♥"
-            },
-            {
-                "user_id": 1,
-                "user_image": "https://images.pexels.com/photos/555790/pexels-photo-555790.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-                "comment": "Thank's! ♥"
-            },
-            {
-                "user_id": 3,
-                "user_image": "https://images.pexels.com/photos/952005/pexels-photo-952005.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-                "comment": "Good job"
-            }
-        ]
-    }
+    "posts": [
+        {
+            "id": 1,
+            "user_id": 1,
+            "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+            "image": "https://images.pexels.com/photos/2076966/pexels-photo-2076966.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "likes": 4,
+            "comment": [
+                {
+                    "user_id": 2,
+                    "user_image": "https://images.pexels.com/photos/1091725/pexels-photo-1091725.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+                    "comment": "Amazing! ♥"
+                },
+                {
+                    "user_id": 1,
+                    "user_image": "https://images.pexels.com/photos/555790/pexels-photo-555790.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+                    "comment": "Thank's! ♥"
+                },
+                {
+                    "user_id": 3,
+                    "user_image": "https://images.pexels.com/photos/952005/pexels-photo-952005.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+                    "comment": "Good job"
+                }
+            ]
+        },
+     ],
 }
