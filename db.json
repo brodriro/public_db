@@ -108,6 +108,7 @@
             "id": 1,
             "user_id": 1,
             "username":"Dave Mustaine",
+            "user_image": "https://images.pexels.com/photos/555790/pexels-photo-555790.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
             "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
             "image": "https://images.pexels.com/photos/2076966/pexels-photo-2076966.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
             "likes": 4,
@@ -120,7 +121,7 @@
                 },
                 {
                     "user_id": 1,
-                    "username": "@david2k",
+                    "username": "@dave_mustaine",
                     "user_image": "https://images.pexels.com/photos/555790/pexels-photo-555790.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
                     "comment": "Thank's! ♥"
                 },
@@ -143,6 +144,7 @@
             "id": 2,
             "user_id": 2,
             "username": "@david2k",
+            "user_image": "https://images.pexels.com/photos/1091725/pexels-photo-1091725.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
             "body": "quia et suscipit suscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam",
             "image": "https://images.pexels.com/photos/1374542/pexels-photo-1374542.jpeg?cs=srgb&dl=adults-black-and-white-casual-1374542.jpg&fm=jpg",
             "likes": 4,
@@ -177,6 +179,7 @@
             "id": 3,
             "user_id": 2,
             "username": "@david2k",
+            "user_image": "https://images.pexels.com/photos/1091725/pexels-photo-1091725.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
             "body": "quia et suscipit suscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam",
             "image": "https://images.pexels.com/photos/2091072/pexels-photo-2091072.jpeg?cs=srgb&dl=back-view-lake-leisure-2091072.jpg&fm=jpg",
             "likes": 4,
