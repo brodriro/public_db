@@ -107,7 +107,7 @@
         {
             "id": 1,
             "user_id": 1,
-            "username":"Dave Mustaine",
+            "username":"@dave_mustaine",
             "user_image": "https://images.pexels.com/photos/555790/pexels-photo-555790.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
             "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
             "image": "https://images.pexels.com/photos/2076966/pexels-photo-2076966.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
