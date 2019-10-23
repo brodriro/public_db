@@ -117,7 +117,7 @@
             "user_image": "https://images.pexels.com/photos/555790/pexels-photo-555790.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
             "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
             "image": "https://images.pexels.com/photos/2076966/pexels-photo-2076966.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-            "likes": 4,
+            "likes": 44,
             "comment": [
                 {
                     "user_id": 2,
@@ -153,7 +153,7 @@
             "user_image": "https://images.pexels.com/photos/1091725/pexels-photo-1091725.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
             "body": "quia et suscipit suscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam",
             "image": "https://images.pexels.com/photos/1374542/pexels-photo-1374542.jpeg?cs=srgb&dl=adults-black-and-white-casual-1374542.jpg&fm=jpg",
-            "likes": 4,
+            "likes": 6,
             "comment": [
                 {
                     "user_id": 2,
@@ -188,7 +188,7 @@
             "user_image": "https://images.pexels.com/photos/1091725/pexels-photo-1091725.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
             "body": "quia et suscipit suscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam",
             "image": "https://images.pexels.com/photos/2091072/pexels-photo-2091072.jpeg?cs=srgb&dl=back-view-lake-leisure-2091072.jpg&fm=jpg",
-            "likes": 4,
+            "likes": 14,
             "comment": [
                 {
                     "user_id": 1,
@@ -214,6 +214,42 @@
                     "user_image": "https://images.pexels.com/photos/555790/pexels-photo-555790.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
                     "comment": "quia et suscipit suscipit recusandae consequuntur expedita loren dip sup"
                 }
+            ]
+        },
+        {
+            "id": 4,
+            "user_id": 1,
+            "username":"@dave_mustaine",
+            "user_image": "https://images.pexels.com/photos/555790/pexels-photo-555790.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "body": "Amazing",
+            "image": "https://images.pexels.com/photos/2076966/pexels-photo-2076966.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "likes": 3,
+            "comment": [
+                {
+                    "user_id": 2,
+                    "username": "@david2k",
+                    "user_image": "https://images.pexels.com/photos/1091725/pexels-photo-1091725.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+                    "comment": "Amazing! ♥"
+                },
+                {
+                    "user_id": 1,
+                    "username": "@dave_mustaine",
+                    "user_image": "https://images.pexels.com/photos/555790/pexels-photo-555790.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+                    "comment": "Thank's! ♥"
+                },
+                {
+                    "user_id": 3,
+                    "username": "@helena_dust",
+                    "user_image": "https://images.pexels.com/photos/952005/pexels-photo-952005.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+                    "comment": "Good job"
+                },
+                {
+                    "user_id": 4,
+                    "username": "@sophia_ds",
+                    "user_image": "https://images.pexels.com/photos/1687675/pexels-photo-1687675.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+                    "comment": "quia et suscipit, suscipit recusandae consequuntur expedita et."
+                }
+                
             ]
         }
      ]
