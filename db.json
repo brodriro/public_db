@@ -28,9 +28,9 @@
             "age": "57 years old",
             "email": "dave.mustaine@gmail.com",
             "location": "New York, USA",
-            "phone": "+51 804156478",
+            "phone": "804156478",
             "social": {
-                "posts": 420,
+                "posts": 42,
                 "likes": 587,
                 "shares": 103,
                 "friends": 899
@@ -46,10 +46,10 @@
             "age": "42 years old",
             "email": "wdavid.2k@gmail.com",
             "location": "Home, CA",
-            "phone": "+55 9408786125",
+            "phone": "9408786125",
             "social": {
                 "posts": 250,
-                "likes": 1550,
+                "likes": 740,
                 "shares": 326,
                 "friends": 650
             }
@@ -67,7 +67,7 @@
             "phone": "+56 1148786125",
             "social": {
                 "posts": 749,
-                "likes": 1860,
+                "likes": 926,
                 "shares": 402,
                 "friends": 712
             }
@@ -82,10 +82,10 @@
             "age": "39 years old",
             "email": "soph.kt@gmail.com",
             "location": "Home, CA",
-            "phone": "+55 325786125",
+            "phone": "325786125",
             "social": {
                 "posts": 800,
-                "likes": 1260,
+                "likes": 689,
                 "shares": 399,
                 "friends": 689
             }
@@ -98,9 +98,9 @@
             "image": "https://images.pexels.com/photos/127229/pexels-photo-127229.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
             "occupation": "Actor",
             "age": "40 years old",
-            "email": "nt.anderson@gmail.com",
+            "email": "nt.andersn@gmail.com",
             "location": "Home, CA",
-            "phone": "+51 953167402",
+            "phone": "953167402",
             "social": {
                 "posts": 537,
                 "likes": 999,
@@ -115,7 +115,7 @@
             "user_id": 1,
             "username":"@dave_mustaine",
             "user_image": "https://images.pexels.com/photos/555790/pexels-photo-555790.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-            "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+            "body": "suscipit recusandae consequuntur expedita et  ut quas totam autem sunt rem eveniet architecto",
             "image": "https://images.pexels.com/photos/2076966/pexels-photo-2076966.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
             "likes": 44,
             "comment": [
@@ -151,7 +151,7 @@
             "user_id": 2,
             "username": "@david2k",
             "user_image": "https://images.pexels.com/photos/1091725/pexels-photo-1091725.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-            "body": "quia et suscipit suscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam",
+            "body": "reprehenderit molestiae ut ut quas totam",
             "image": "https://images.pexels.com/photos/1374542/pexels-photo-1374542.jpeg?cs=srgb&dl=adults-black-and-white-casual-1374542.jpg&fm=jpg",
             "likes": 6,
             "comment": [
@@ -186,7 +186,7 @@
             "user_id": 2,
             "username": "@david2k",
             "user_image": "https://images.pexels.com/photos/1091725/pexels-photo-1091725.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-            "body": "quia et suscipit suscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam",
+            "body": "consequuntur expedita et cum",
             "image": "https://images.pexels.com/photos/2091072/pexels-photo-2091072.jpeg?cs=srgb&dl=back-view-lake-leisure-2091072.jpg&fm=jpg",
             "likes": 14,
             "comment": [
@@ -224,33 +224,7 @@
             "body": "Amazing",
             "image": "https://images.pexels.com/photos/2076966/pexels-photo-2076966.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
             "likes": 3,
-            "comment": [
-                {
-                    "user_id": 2,
-                    "username": "@david2k",
-                    "user_image": "https://images.pexels.com/photos/1091725/pexels-photo-1091725.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-                    "comment": "Amazing! ♥"
-                },
-                {
-                    "user_id": 1,
-                    "username": "@dave_mustaine",
-                    "user_image": "https://images.pexels.com/photos/555790/pexels-photo-555790.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-                    "comment": "Thank's! ♥"
-                },
-                {
-                    "user_id": 3,
-                    "username": "@helena_dust",
-                    "user_image": "https://images.pexels.com/photos/952005/pexels-photo-952005.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-                    "comment": "Good job"
-                },
-                {
-                    "user_id": 4,
-                    "username": "@sophia_ds",
-                    "user_image": "https://images.pexels.com/photos/1687675/pexels-photo-1687675.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-                    "comment": "quia et suscipit, suscipit recusandae consequuntur expedita et."
-                }
-                
-            ]
+            "comment": []
         }
      ]
 }
